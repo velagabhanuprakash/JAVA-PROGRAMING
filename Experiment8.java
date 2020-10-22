@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Experiment_8
+public class Experiment8
 {
 	public static void main(String[] args) {
 	    String user_name,user_id,user_mobilenumber;
